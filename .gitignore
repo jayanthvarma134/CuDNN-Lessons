@@ -1,0 +1,40 @@
+# Build files
+*.o
+*.so
+*.a
+*.json
+*.bkp
+
+# Model files
+*.enc
+*.weights
+*.onnx
+*.engine
+
+# Directories
+.vscode/
+images/
+images_debug/
+logs/
+json/
+config/
+videos/
+evalxml/
+__pycache__/
+models/*
+
+# Database
+local.db*
+
+# Binaries
+iris-app
+dbworker/dbworker
+model_crypto/crypto
+
+# Exceptions
+!samples/*.json
+
+# Exceptions
+!models/Tracker
+!models/iris_models.py
+
