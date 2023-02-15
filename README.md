@@ -1,2 +1,2 @@
 # CuDNN-Lessons
-Getting started with the CuDNN library C API
+Getting started with the CuDNN API.
