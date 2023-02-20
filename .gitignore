@@ -15,6 +15,7 @@
 .vscode/
 images/
 images_debug/
+samples/
 logs/
 json/
 config/
